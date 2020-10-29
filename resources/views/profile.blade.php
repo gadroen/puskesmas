@@ -44,7 +44,11 @@
             <div class="card shadow mb-4">
 
                 <div class="card-header py-3">
+<<<<<<< HEAD
                     <h6 class="m-0 font-weight-bold text-primary">MY ACCOUNT</h6>
+=======
+                    <h6 class="m-0 font-weight-bold text-primary">My Account</h6>
+>>>>>>> parent of fd587b1... Update profile.blade.php
                 </div>
 
                 <div class="card-body">
