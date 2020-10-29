@@ -28,7 +28,7 @@
                         <div class="col-lg-12">
                             <div class="text-center">
                                 <h5 class="font-weight-bold">{{  Auth::user()->fullName }}</h5>
-                                <p>Admin</p>
+                                <p>ADMINISTRATOR</p>
                             </div>
                         </div>
                     </div>
@@ -44,7 +44,7 @@
             <div class="card shadow mb-4">
 
                 <div class="card-header py-3">
-                    <h6 class="m-0 font-weight-bold text-primary">My Account Data</h6>
+                    <h6 class="m-0 font-weight-bold text-primary">MY ACCOUNT</h6>
                 </div>
 
                 <div class="card-body">
