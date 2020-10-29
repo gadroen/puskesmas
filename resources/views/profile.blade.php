@@ -29,6 +29,7 @@
                             <div class="text-center">
                                 <h5 class="font-weight-bold">{{  Auth::user()->fullName }}</h5>
                                 <p>ADMINISTRATOR</p>
+                                <p>Admin</p>
                             </div>
                         </div>
                     </div>
